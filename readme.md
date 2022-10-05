@@ -2,7 +2,7 @@
 
 ## Arduino
 ### Requirements
-- [Adafruit_TCS34725](https://github.com/adafruit/Adafruit_TCS34725)
+- Library [Adafruit_TCS34725](https://github.com/adafruit/Adafruit_TCS34725)
 ### Wiring
 - ![Arduino Wiring](./arduino/pinout-arduino.jpg)
 ## Website
